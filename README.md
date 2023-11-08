@@ -11,3 +11,8 @@ This project showcases the application of prescriptive analytics in portfolio op
 <h2>Environment Used</h2>
 
 - <b>Microsoft Excel 365</b>
+
+<h2>Project walk-through:</h2>
+Check the uploaded Excel and Report.
+
+
